@@ -1,0 +1,22 @@
+{
+  "name": "henlo",
+  "version": "1.0.0",
+  "description": "henlo with support for 3.74",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inthecatsdreams/HENlo.git"
+  },
+  "author": "theflow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inthecatsdreams/HENlo/issues"
+  },
+  "homepage": "https://github.com/inthecatsdreams/HENlo#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
